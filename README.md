@@ -1,7 +1,7 @@
 # Expense-Tracking-system-using-BTrees
 
 ## Overview
-Modern database management system uses advanced datastructures like B+ Trees, which are closely related, and extension rather, to B-Tress. The motive of this project was to implement the CRUD operations for B Trees and make a practically useful system, applying the knowledge of data structures and algorithms to optimize wherever possible.
+Modern database management system uses advanced datastructures like B+ Trees, which is closely related, and extension rather, to B-Trees. The motive of this project was to implement the CRUD operations for B Trees and make a practically useful system, applying the knowledge of data structures and algorithms to optimize wherever possible.
 
 Written completely in C language, the menu-driven program helps in tracking expenses of individual users or a family of atmost 4 users. It allows users to add, delete and systematically access expenses. More features like that of getting sorted category-wise total monthly expense, income-expense disparity of family, highest expense day of a family, range-search etc are added and optimized, while inculcating best-practices of programming and input validation at each step. Additionally, the program is integrated with file handling feature to extract data from text files. 
 
